@@ -1,4 +1,4 @@
-FROM debian:7.7
+FROM webskin/docker-debian-base:1.0.0
 MAINTAINER webskin <mickael.gauvin@gmail.com>
 
 # auto validate license
